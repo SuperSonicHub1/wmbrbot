@@ -12,6 +12,7 @@ icalendar = "^5.0.5"
 python-dotenv = "^1.0.0"
 discord-py = {version = "^2.2.3", extras = ["voice"]}
 selectolax = "^0.3.13"
+flask = "^2.3.2"
 
 
 [tool.poetry.group.dev.dependencies]
